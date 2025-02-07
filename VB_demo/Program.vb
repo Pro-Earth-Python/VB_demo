@@ -43,5 +43,14 @@ Module Program
 
 
     End Sub
-End Module
 
+    Sub discount()
+        Console.WriteLine("Welcome to St.Marks The customer policy is to give discounts to all members by age")
+        Console.WriteLine("if you are anywhere between the ages of 18 and 34, you have a 10#")
+        Console.WriteLine("if you are between the ages of 35 and 59 you get a 30% ")
+        Console.WriteLine("if you are between the ages of 59 and older you get a 50% ")
+
+
+
+    End Sub
+End Module
